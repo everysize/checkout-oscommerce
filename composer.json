@@ -1,0 +1,20 @@
+{
+    "name": "everysize/checkout-oscommerce",
+    "description": "everysize Checkout – Erweiterung für osCommerce 4",
+    "version": "1.0.1",
+    "type": "oscommerce-extension",
+    "license": "MIT",
+    "keywords": ["oscommerce", "everysize", "checkout", "marketplace", "sneaker"],
+    "homepage": "https://www.everysize.com",
+    "authors": [
+        {
+            "name": "everysize GmbH",
+            "homepage": "https://www.everysize.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "ext-curl": "*",
+        "ext-json": "*"
+    }
+}

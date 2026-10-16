@@ -1,0 +1,11 @@
+{
+    "type": "extension",
+    "class": "EverysizeCheckout",
+    "name": "everysize Checkout",
+    "version": "1.0.1",
+    "src": [],
+    "require": {
+        "version": "4.14",
+        "version_applicable": "greater-equal"
+    }
+}
